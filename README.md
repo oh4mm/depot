@@ -1,0 +1,4 @@
+depot
+=====
+
+first rails app
