@@ -1,4 +1,4 @@
 depot
 =====
 
-first rails app
+照着书写的例子，请无视
