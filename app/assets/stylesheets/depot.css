@@ -151,3 +151,66 @@
   color:#fff;
   font-size:small;
 }
+
+.price_line div, .price_line form {
+  display:inline;
+}
+
+#line_item_list {
+  width:100%;
+  border-width:1px 1px 0 0;
+  border-style:solid;
+  border-color:#ccc;
+  border-collapse:collapse;
+  margin:0 0 10px;
+}
+
+#line_item_list td {
+  padding:5px 10px;
+  border-width:0 0 1px 1px;
+  border-color:#ccc;
+  border-style:solid;
+}
+
+.cart_price {
+  width:50px;
+  text-align:right;
+}
+
+.cart_quantity {
+  width:50px;
+}
+
+/* Style for order form */
+
+.depot_form fieldset {
+  background:#efe;
+}
+
+.depot_form legend  {
+  color:#dfd;
+  background:#141;
+  font-family:sans-serif;
+  padding:0.2em 1em;
+}
+
+.depot_form label {
+  width:5em;
+  float:left;
+  text-align:right;
+  padding-top:0.2em;
+  margin-right:0.1em;
+  display:block;
+}
+
+.depot_form select, .depot_form textarea, .depot_form input {
+  margin-left:0.5em;
+}
+
+.depot_form .submit {
+  margin-left:4em;
+}
+
+.depot_form div {
+  margin:0.5em 0;
+}
